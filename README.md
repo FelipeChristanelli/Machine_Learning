@@ -1,10 +1,7 @@
 # Machine_Learning
 
-4º Curso da Formação Cientista de Dados com o Objetivo de:
-- Desenvolver o processo de modelagem de dados para Machine Learning; 
-- Conhecer os principais algoritmos de Machine Learning, suas aplicações e diferenças;
-Aprender técnicas de Machine Learning e Processamento de Dados e
-- Aplicar as técnicas de Machine Learning e Desenvolver Modelos Preditivos:
+4º Curso da Formação Cientista de Dados com o Objetivo de: Desenvolver o processo de modelagem de dados para Machine Learning; Conhecer os principais algoritmos de Machine Learning, suas aplicações e diferenças;
+Aprender técnicas de Machine Learning e Processamento de Dados e Aplicar as técnicas de Machine Learning e Desenvolver Modelos Preditivos:
 
 <ul>
   <li>Introdução</li>
