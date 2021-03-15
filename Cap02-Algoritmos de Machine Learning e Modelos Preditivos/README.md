@@ -1,6 +1,6 @@
 # Algoritmos de Machine Learning e Modelos Preditivos
 
-Um 2º Capítulo Teórico com conceitos que servirão de base para tudo que vamos estudar na prática até o fim do treinamento:
+Um 2º Capítulo Teórico com conceitos que servirão de base para tudo que vamos estudar na prática até o fim do curso:
 
 <ul>
   <li>Introdução</li>
