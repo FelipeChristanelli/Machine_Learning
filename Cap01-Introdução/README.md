@@ -1,6 +1,6 @@
 # Introdução
 
-Neste 1º Capítulo do curso houve um Introdução sobre Machine Learning>:
+Neste 1º Capítulo do curso houve uma Introdução sobre Machine Learning:
 
 <ul>
   <li>Introdução ao Curso</li>
