@@ -1,6 +1,6 @@
 # Machine Learning – Regressão – Parte 1
 
-5º Capítulo que é uma continuação do capítulo anterior onde construiremos modelos de regressão em Linguagem Python e Linguagem R para compreender os fundamentos aprendidos no capítulo anterior e com foco na Interpretação do Modelo:
+5º Capítulo que é uma continuação do capítulo anterior onde construiremos modelos de regressão em Linguagem Python e Linguagem R para compreender os fundamentos aprendidos no capítulo anterior e com foco na Interpretação dos Modelos, tanto para problemas de Regressão com Regressão Linear quanto para problemas de Classificação com Regressão Logística:
 <ul>
   <li>Introdução</li>
   <li>Iniciando o Primeiro Modelo de Regressão</li>
