@@ -1,26 +1,20 @@
-# Machine Learning – Regressão – Parte 1
+# Classificação com Naive Bayes
 
-Nesse 6º Capítulo do curso vamos aprender a trabalhar com outra técnica para tarefas de Classificação em Aprendizagem Supervisionada, Algoritmo KNN:
+No 7º Capítulo do curso aprendemos sobre mais outro Algoritmo para tarefas de Classificação em Aprendizagem Supervisionada, o Classificador Naive Bayes que é um classificador Probabilístico baseado na aplicação do Teorema de Bayes:
+
 <ul>
   <li>Introdução</li>
-  <li>Conhecendo o Algoritmo KNN</li>
-  <li>KNN e Estrutura de Células de Voronoi</li>
-  <li>Como Funciona o Algoritmo KNN?</li>
-  <li>Medidas de Distância Matemática</li>
-  <li>Classificação KNN em Python – Definindo um Problema para Classificação Multiclasse</li>
-  <li>Classificação KNN em Python – Carregando e Explorando o Dataset</li>
-  <li>Classificação KNN em Python – Carregando e Explorando o Dataset</li>
-  <li>Classificação KNN em Python – Testando o Melhor Valor de K</li>
-  <li>Classificação KNN em Python – Construção e Treinamento do Modelo KNN</li>
-  <li>Classificação KNN em Python – Previsões com Dados de Teste e Avaliação do Modelo</li>
-  <li>Classificação KNN em Python – Previsões em Novos Dados com o Modelo Treinado</li>
-  <li>Classificação KNN em R – Definindo um Problema para Classificação Binária</li>
-  <li>Classificação KNN em R – Carregando e Explorando o Dataset – 2 Partes</li>
-  <li>Classificação KNN em R – Normalização dos Dados (Center e Scale)</li>
-  <li>Classificação KNN em R – Construção e Treinamento do Modelo</li>
-  <li>Classificação</li>
-  <li>Classificação KNN em R – Aplicando Outras Métricas</li>
-  <li>Classificação KNN em R – Previsões em Novos Dados com o Modelo Treinado</li>
-  <li>E se der Empate na Votação do KNN?</li>
-  <li>Exercício – Desenvolvendo o Algoritmo KNN sem o Uso de Frameworks</li>
+  <li>Conhecendo o Naive Bayes</li>
+  <li>Aplicações do Algoritmo Naive Bayes</li>
+  <li>A Teoria da Probabilidade</li>
+  <li>Probabilidade Condicional</li>
+  <li>Teorema de Bayes – 2 Partes</li>
+  <li>Problema da Frequência Zero</li>
+  <li>Construindo um Classificador de Spam em R -2 Partes</li>
+  <li>Gaussian Naive Bayes em Python - Introdução</li>
+  <li>Gaussian Naive Bayes em Python – Machine Learning em Astronomia com AstroML</li>
+  <li>Gaussian Naive Bayes em Python - MeshGrid</li>
+  <li>Multinomial Naive Bayes em Python – Classificador de Notícias – 2 Partes</li>
+  <li>Bernoulli Naïve Bayes em Python</li>
+  <li>Construindo um Classificado Naive Bayes</li>
 </ul>
