@@ -1,6 +1,6 @@
 # Machine Learning – Regressão – Parte 1
 
-Nesse 6º Capítulo do curso vamos aprender a trabalhar com outro algoritmo para tarefas de Classificação em Aprendizagem Supervisionada, Algoritmo KNN:
+Nesse 6º Capítulo do curso vamos aprender a trabalhar com outra técnica para tarefas de Classificação em Aprendizagem Supervisionada, Algoritmo KNN:
 <ul>
   <li>Introdução</li>
   <li>Conhecendo o Algoritmo KNN</li>
