@@ -27,8 +27,14 @@ Já compreendemos o que é uma Árvore de Decisão, então não teremos dificuld
   <li>Construindo um Regressor Gradient Boosting em Python – Diagnosticando se o Modelo sofre de Overfitting</li>
   <li>Construindo um Regressor Gradient Boosting em Python – Técnicas de Regularização do Modelo – 2 Partes</li>
   <li>Construindo um Regressor Gradient Boosting em Python – Stochastic Gradient Boosting</li>
-  <li></li>
-  <li></li>
+  <li>Construindo um Regressor Gradient Boosting em Python – Tunning dos Hiperparâmetros com Grid Search</li>
+  <li>eXtreme Gradient Boosting (XGBoost) em R – Definindo o XGBoost</li>
+  <li>eXtreme Gradient Boosting (XGBoost) em R – Definindo o Problema de Negócio e Carregando os Dados</li>
+  <li>eXtreme Gradient Boosting (XGBoost) em R – Trabalhando com Matriz Densa e Sparsa</li>
+  <li>eXtreme Gradient Boosting (XGBoost) em R – Criando o Modelo e Transformando as Probabilidades em Classificação</li>
+  <li>eXtreme Gradient Boosting (XGBoost) em R – Trabalhando com Watchlist e Dados de Validação</li>
+  <li>eXtreme Gradient Boosting (XGBoost) em R – Calculando a Importância dos Atributos</li>
+  <li>eXtreme Gradient Boosting (XGBoost) em R – Usando o Modelo Treinado para Fazer Previsões em Novos Dados</li>
   <li></li>
   <li></li>
   <li></li>
