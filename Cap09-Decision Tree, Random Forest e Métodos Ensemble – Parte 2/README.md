@@ -1,6 +1,6 @@
 # Decision Tree, Random Forest e Métodos Ensemble – Parte 2
 
-pº Capítulo do curso é uma continuação do capítulo anterior de Modelos de Decision Tree e Métodos Ensemble que são temas bastante extensos. 
+9º Capítulo do curso é uma continuação do capítulo anterior de Modelos de Decision Tree e Métodos Ensemble que são temas bastante extensos. 
 Já compreendemos o que é uma Árvore de Decisão, então não teremos dificuldade nesse capítulo, pois o que faremos nesse capítulo é agrupar uma série de Árvores de Decisão em um único modelo preditivo, ou seja, vamos criar modelos de métodos Ensemble, ou agrupamento de Árvores de Decisão.
 Árvore de Decisão está entre um dos modelos preditivos que oferecem o maior nível de precisão. Imagine unir toda essa capacidade preditiva utilizando várias Árvores de maneira simultânea. Essa é a proposta do que vamos estudar nesse capítulo:
 
