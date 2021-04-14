@@ -35,7 +35,4 @@ Já compreendemos o que é uma Árvore de Decisão, então não teremos dificuld
   <li>eXtreme Gradient Boosting (XGBoost) em R – Trabalhando com Watchlist e Dados de Validação</li>
   <li>eXtreme Gradient Boosting (XGBoost) em R – Calculando a Importância dos Atributos</li>
   <li>eXtreme Gradient Boosting (XGBoost) em R – Usando o Modelo Treinado para Fazer Previsões em Novos Dados</li>
-  <li></li>
-  <li></li>
-  <li></li>
 </ul>
