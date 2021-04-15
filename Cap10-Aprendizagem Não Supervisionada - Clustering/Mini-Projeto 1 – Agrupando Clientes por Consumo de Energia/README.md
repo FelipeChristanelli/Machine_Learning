@@ -1,6 +1,6 @@
 # Mini-Projeto 1 – Agrupando Clientes por Consumo de Energia
 
-A partir de dados de consumo de energia de clientes, nosso trabalho é agrupar os consumidores por similaridade a afim de compreender o comportamento dos clientes e sua relação com o consumo de energia:
+A partir de dados de consumo de energia de clientes, nosso trabalho é agrupar os consumidores por similaridade afim de compreender o comportamento dos clientes e sua relação com o consumo de energia:
 
 <ul>
   <li>Especificação e Definição do Exercício</li>
