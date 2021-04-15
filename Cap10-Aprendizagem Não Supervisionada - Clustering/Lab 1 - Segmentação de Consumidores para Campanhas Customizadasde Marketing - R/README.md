@@ -1,6 +1,6 @@
 # Lab 1 - Segmentação de Consumidores para Campanhas Customizadasde Marketing em R
 
-Lab 1: Aplicando Cluterização com Objetivo de encontrar segmentos de consumidores para campanhas personalizadas de Marketing em R:
+Lab 1: Aplicando Cluterização com objetivo de encontrar segmentos de consumidores para campanhas personalizadas de Marketing em R:
 
 <ul>
   <li>Definição do Problema</li>
