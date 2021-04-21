@@ -27,9 +27,6 @@ No 12º Capítulo do Curso vamos aprender sobre uma das principais áreas de est
   <li>Introdução ao Processamento de Linguagem Natural – Corpus e Corpora – Criando o Próprio Corpus em Português</li>
   <li>Introdução ao Processamento de Linguagem Natural – Corpus e Corpora – Extraindo Dados e Metadados do Corpus</li>
   <li>Lab – Collocations e Processamento de Comentários de Avaliações de Hotéis</li>
-  <li>Lab - Definição do Problema</li>
-  <li>Lab – Coleta e Limpeza dos Dados de Avaliações de Hotéis</li>
-  <li></li>
   <li></li>
   <li></li>
   <li></li>
