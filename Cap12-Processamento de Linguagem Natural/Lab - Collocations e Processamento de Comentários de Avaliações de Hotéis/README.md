@@ -15,17 +15,8 @@ E para chegar até lá temos que tokenizar, fazer limpeza, tirar stopwords, apli
   <li>Lab – Carregando o Dicionário no SpaCy, Removendo Pontuação e Aplicando Lematização</li>
   <li>Lab – Buscando Bigramas e Trigramas Mais Relevantes nos Comentários por Frequência – 2 Partes</li>
   <li>Lab – Buscando Bigramas e Trigramas mais Relevantes nos Comentários por PMI</li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Lab – Buscando Bigramas e Trigramas mais Relevantes nos Comentários por Teste t</li>
+  <li>Lab – Buscando Bigramas e Trigramas mais Relevantes nos Comentários por Teste do Qui-Quadrado</li>
+  <li>Lab – Comparação dos Métodos</li>
+  <li>Lab – Conclusão e Resultado Final</li>
 </ul>
