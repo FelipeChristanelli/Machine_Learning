@@ -1,4 +1,4 @@
-# Machine Learning – Regressão – Parte 1
+# Regressão – Parte 1
 
 Neste 4º Capítulo vamos compreender alguns conceitos sobre Regressão:
 
