@@ -16,5 +16,5 @@ No 7º Capítulo do curso aprendemos sobre mais outro Algoritmo para tarefas de 
   <li>Gaussian Naive Bayes em Python - MeshGrid</li>
   <li>Multinomial Naive Bayes em Python – Classificador de Notícias – 2 Partes</li>
   <li>Bernoulli Naïve Bayes em Python</li>
-  <li>Construindo um Classificado Naive Bayes</li>
+  <li>Construindo um Classificador Naive Bayes</li>
 </ul>
