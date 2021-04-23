@@ -31,7 +31,7 @@ Tudo a partir de agora é um bônus, material adicional da DSA. Cada modelo é a
   <li>Lab – Collocations e Processamento de Comentários de Avaliações de Hotéis</li>
   <li>Introdução ao Framework PyTorch</li>
   <li>PyTorch para Processamento de Linguagem Natural</li>
-  <li>Modelo de Classificação de Idiomas de Sentenças com bag of Words e PyTorch – 2 Partes</li>
+  <li>Modelo de Classificação de Idiomas de Sentenças com Bag of Words e PyTorch – 2 Partes</li>
   <li></li>
   <li></li>
   <li></li>
