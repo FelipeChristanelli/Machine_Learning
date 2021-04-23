@@ -16,4 +16,5 @@ Básicamente temos 3 Frameworks principais para trabalhar com Deep Learning nos 
   <li>Array NumPy x Tensor PyTorch</li>
   <li>Operações com Tensores</li>
   <li>Operações com Matrizes – 2 Partes</li>
+  <li></li>
 </ul>
