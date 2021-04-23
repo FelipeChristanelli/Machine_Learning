@@ -14,15 +14,6 @@ Básicamente temos 3 Frameworks principais para trabalhar com Deep Learning nos 
   <li>Por Que Tensores e Não Arrays NumPy?</li>
   <li>Criando e Manipulando Tensores – 2 Partes</li>
   <li>Array NumPy x Tensor PyTorch</li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Operações com Tensores</li>
+  <li>Operações com Matrizes – 2 Partes</li>
 </ul>

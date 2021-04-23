@@ -1,6 +1,8 @@
 # Processamento de Linguagem Natural
 
-No 12º Capítulo do Curso vamos aprender sobre uma das principais áreas de estudo, pesquisa e aplicação da Inteligência Artificial. Processamento de Linguagem Natural é uma subárea da inteligência artificial e da linguística que estuda os problemas da geração e compreensão automática de línguas humanas naturais:
+No 12º Capítulo do Curso vamos aprender sobre uma das principais áreas de estudo, pesquisa e aplicação da Inteligência Artificial. Processamento de Linguagem Natural é uma subárea da inteligência artificial e da linguística que estuda os problemas da geração e compreensão automática de línguas humanas naturais. Após aprender sobre Introdução ao Framework PyTorch, vamos ver uma série de modelos de Processamento de Linguagem Natural construído com PyTorch.
+A cada aula vai ter um modelo completo 100% funcional do início ao fim. Aprender visão geral sobre aquele modelo e como aplicá-lo com Framework PyTorch.
+Tudo a partir de agora é um bônus, material adicional da DSA. Cada modelo é aprendido em um capítulo inteiro do Curso de Processamento de Linguagem Natural da Formação IA:
 
 <ul>
   <li>Introdução</li>
@@ -28,8 +30,8 @@ No 12º Capítulo do Curso vamos aprender sobre uma das principais áreas de est
   <li>Introdução ao Processamento de Linguagem Natural – Corpus e Corpora – Extraindo Dados e Metadados do Corpus</li>
   <li>Lab – Collocations e Processamento de Comentários de Avaliações de Hotéis</li>
   <li>Introdução ao Framework PyTorch</li>
-  <li></li>
-  <li></li>
+  <li>PyTorch para Processamento de Linguagem Natural</li>
+  <li>Modelo de Classificação de Idiomas de Sentenças com bag of Words e PyTorch – 2 Partes</li>
   <li></li>
   <li></li>
   <li></li>
