@@ -32,7 +32,7 @@ Tudo a partir de agora é um bônus, material adicional da DSA. Cada modelo é a
   <li>Introdução ao Framework PyTorch</li>
   <li>PyTorch para Processamento de Linguagem Natural</li>
   <li>Modelo de Classificação de Idiomas de Sentenças com Bag of Words e PyTorch – 2 Partes</li>
-  <li></li>
+  <li>TF-IDF para Identificação das Palavras mais Relevantes em um Livro – 3 Partes</li>
   <li></li>
   <li></li>
   <li></li>
