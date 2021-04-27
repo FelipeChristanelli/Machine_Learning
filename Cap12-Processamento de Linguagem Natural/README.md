@@ -33,16 +33,9 @@ Tudo a partir de agora é um bônus, material adicional da DSA. Cada modelo é a
   <li>PyTorch para Processamento de Linguagem Natural</li>
   <li>Modelo de Classificação de Idiomas de Sentenças com Bag of Words e PyTorch – 2 Partes</li>
   <li>TF-IDF para Identificação das Palavras mais Relevantes em um Livro – 3 Partes</li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Estudo de Caso – Inteligência Artificial para Previsão de Sentenças em Embargos de Declaração</li>
+  <li>Estudo de Caso – Buscador de Palavras em Texto por Similaridade</li>
+  <li>Estudo de Caso – Previsão de Palavras com Base no Contexto e Visualização com PCA</li>
+  <li>Estudo de Caso – Tradutor de Idioma com Machine Learning e PLN</li>
+  <li>Mini-Projeto 3 – Text Analytics em Recursos Humanos</li>
 </ul>
