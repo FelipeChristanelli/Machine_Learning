@@ -19,9 +19,9 @@ Sabendo que há um universo a ser explorado:
   <li>A Origem das Redes Neurais Artificiais</li>
   <li>A Evolução das Redes Neurais Artificiais</li>
   <li>A Matemática das Redes Neurais Artificiais – Construindo a Rede Neural com Programação e Matemática</li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>A Arquitetura de Redes Neurais Artificiais</li>
+  <li>Parâmetros x Hiperparâmetros</li>
+  <li>Desenvolvendo a Primeira Parte da Rede – Forward Propagation</li>
   <li></li>
   <li></li>
   <li></li>
