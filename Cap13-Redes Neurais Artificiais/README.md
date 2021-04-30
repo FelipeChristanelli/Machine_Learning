@@ -22,13 +22,13 @@ Sabendo que há um universo a ser explorado:
   <li>A Arquitetura de Redes Neurais Artificiais</li>
   <li>Parâmetros x Hiperparâmetros</li>
   <li>Desenvolvendo a Primeira Parte da Rede – Forward Propagation</li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Por que Inicializamos os Pesos de um Modelo de Rede Neural?</li>
+  <li>Desenvolvendo a Função para Inicialização de Pesos – 2 Partes</li>
+  <li>Por que Precisamos da Função de Ativação?</li>
+  <li>Desenvolvendo a Função Sigmóide</li>
+  <li>Afinal, O que é Derivada?</li>
+  <li>Desenvolvendo a Função ReLu</li>
+  <li>Desenvolvendo a Ativação Linear</li>
   <li></li>
   <li></li>
   <li></li>
