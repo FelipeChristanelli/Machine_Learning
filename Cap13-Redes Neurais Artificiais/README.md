@@ -29,10 +29,10 @@ Sabendo que há um universo a ser explorado:
   <li>Afinal, O que é Derivada?</li>
   <li>Desenvolvendo a Função ReLu</li>
   <li>Desenvolvendo a Ativação Linear</li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Construindo o Processo de Forward Propagation</li>
+  <li>Combinando Ativação e Propagação</li>
+  <li>Desenvolvendo a Função de Custo – Interpretando a Função de Entropia Cruzada Binária – 2 Partes</li>
+  <li>Desenvolvendo a Segunda Parte da Rede – Backward Propagation</li>
   <li></li>
   <li></li>
   <li></li>
