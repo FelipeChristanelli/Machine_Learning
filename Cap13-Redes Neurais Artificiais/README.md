@@ -1,7 +1,7 @@
 # Redes Neurais Artificiais
 
 No 13º Capítulo estudamos uma categoria bastante particular de Machine Learning que é o conjunto de Redes Neurais Artificiais.
-E por que é bastante particular? 2 razões: 1º por que é uma tentativa de reproduzir o comportamento do aprendizado do cérebro humano. 2º é que é praticamente um universo por si só, temos vários tipos, subtipos, combinações diferentes de Redes Neurais Artificiais e como deixamos a Rede Neural muito profunda, ou seja, com muitas camadas internas, é o que chamamos de Deep Learning que é o estado da arte em áreas como visão computacional e PLN. 
+E por que é bastante particular? 2 razões: 1º por que é uma tentativa de reproduzir o comportamento do aprendizado do cérebro humano. 2º que é praticamente um universo por si só, temos vários tipos, subtipos, combinações diferentes de Redes Neurais Artificiais e como deixamos a Rede Neural muito profunda, ou seja, com muitas camadas internas, que é o que chamamos de Deep Learning que é o estado da arte em áreas como visão computacional e PLN. 
 Portanto é um tema bastante extenso e tem 3 cursos inteiros somente sobre Redes Neurais Artificiais: Deep Learning Framework, Deep Learning I e II.
 
 Objetivos deste Capítulo
