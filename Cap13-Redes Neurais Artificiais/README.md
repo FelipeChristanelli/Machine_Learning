@@ -33,12 +33,11 @@ Sabendo que há um universo a ser explorado:
   <li>Combinando Ativação e Propagação</li>
   <li>Desenvolvendo a Função de Custo – Interpretando a Função de Entropia Cruzada Binária – 2 Partes</li>
   <li>Desenvolvendo a Segunda Parte da Rede – Backward Propagation</li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Backpropagation, Gradiente Descendente e Chain Rule</li>
+  <li>Desenvolvendo o Backward Propagation – Função Sigmóide Backward</li>
+  <li>Desenvolvendo o Backward Propagation – Função ReLu Backward</li>
+  <li>Desenvolvendo o Backward Propagation – Ativação Linear Backward</li>
+  <li>Combinando Ativação e Retropropagação – Algoritmo Backpropagation</li>
+  <li>Gradientes e Atualização dos Pesos</li>
+  <li>Implementando a Rede Completa</li>
 </ul>
