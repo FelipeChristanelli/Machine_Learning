@@ -40,4 +40,7 @@ Sabendo que há um universo a ser explorado:
   <li>Combinando Ativação e Retropropagação – Algoritmo Backpropagation</li>
   <li>Gradientes e Atualização dos Pesos</li>
   <li>Implementando a Rede Completa</li>
+  <li>Mini-Projeto 4 – Usando a Rede Neural para Prever a Ocorrência de Câncer </li>
+  <li>Mini-Projeto 5 – Rede Neural com TensorFlow para Classificação de Imagens de Vestuário</li>
+  <li>Estudo de Caso – Prevendo os Efeitos do Consumo de Álcool em Doenças do Fígado</li>
 </ul>
