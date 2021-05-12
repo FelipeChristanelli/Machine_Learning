@@ -14,7 +14,7 @@
   <li>Otimização com Stochastic Gradient Descent – 2 Partes</li>
   <li>Momentum e Learning Rate Decay</li>
   <li>Regularização e Dropout</li>
-  <li></li>
+  <li>Mini-Projeto 6 – Classificação de Imagens com Deep Learning e PyTorch e Torchvision em GPU</li>
   <li></li>
   <li></li>
   <li></li>
