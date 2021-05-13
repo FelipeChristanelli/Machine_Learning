@@ -10,8 +10,13 @@ Vamos treinar um Modelo Deep Learning e aprender mais detalhes e incorporar conc
   <li>Verificando as GPUs Disponíveis com TensorFlow</li>
   <li>Carregando e Compreendendo os Dados</li>
   <li>Preparando os Data Loaders – 2 Partes</li>
-  <li></li>
-  <li></li>
+  <li>Visualizando um Batch dos Dados de Treino</li>
+  <li>O que a Rede Convolucional Aprende?</li>
+  <li>Definindo a Arquitetura da Rede Convolucional – 2 Partes</li>
+  <li>Construção do Modelo</li>
+  <li>Otimização e Função de Perda</li>
+  <li>Treinamento do Modelo</li>
+  <li>Carregando o Modelo Treinado</li>
   <li></li>
   <li></li>
 </ul>
