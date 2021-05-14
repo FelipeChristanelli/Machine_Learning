@@ -1,5 +1,11 @@
 # Redes Neurais Artificiais Profundas (Deep Learning)
 
+Esse 14º Capítulo do curso é uma continuação do capítulo anterior. Agora vamos adicionar mais camadas intermediárias e então estudar Redes Neurais Artificiais Profundas que chamamos de Deep Learning que talvez seja o estado da arte daquilo que podemos fazer em Machine Learning para reproduzir a Inteligência Humana através da Inteligência Artificial.
+
+Esse capítulo é uma Introdução ao tema. Deep Learning é um assunto bastante extenso e seria impossível abordar em apenas um capítulo e nem é o propósito.
+
+Aproveitar que estudamos Redes Neurais Artificiais e vamos ver uma extensão, onde vamos adicionar camadas intermediárias e estudar pelo menos duas arquiteturas de Deep Learning: Redes Neurais Convolucionais e Redes Neurais Recorrentes:
+
 <ul>
   <li>Introdução</li>
   <li>O que é Deep Learning? – 2 Partes</li>
