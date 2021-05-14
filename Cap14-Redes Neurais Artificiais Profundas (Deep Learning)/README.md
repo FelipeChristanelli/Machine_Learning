@@ -15,12 +15,5 @@
   <li>Momentum e Learning Rate Decay</li>
   <li>Regularização e Dropout</li>
   <li>Mini-Projeto 6 – Classificação de Imagens com Deep Learning e PyTorch e Torchvision em GPU</li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Estudo de Caso – Deep Learning em R Para Classificação de Imagens</li>
 </ul>

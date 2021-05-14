@@ -17,6 +17,6 @@ Vamos treinar um Modelo Deep Learning e aprender mais detalhes e incorporar conc
   <li>Otimização e Função de Perda</li>
   <li>Treinamento do Modelo</li>
   <li>Carregando o Modelo Treinado</li>
-  <li></li>
-  <li></li>
+  <li>Testando e Avaliando o Modelo Final</li>
+  <li>Previsões com o Modelo Treinado</li>
 </ul>
