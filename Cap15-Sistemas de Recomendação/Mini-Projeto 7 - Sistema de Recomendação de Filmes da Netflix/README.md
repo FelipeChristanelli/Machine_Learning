@@ -19,8 +19,14 @@ Trabalhar com dados reais fornecidos pela própria Netflix.
   <li>Análise Exploratória de Dados – O dia da Semana Tem Influência na Avaliação?</li>
   <li>Análise Exploratória de Dados – Avaliações de Usuários ao Longo do Tempo</li>
   <li>Análise Exploratória de Dados – Usuários com Maior Número de Avaliações</li>
-  <li></li>
-  <li></li>
+  <li>Análise Exploratória de Dados – Função de Densidade de Probabilidade</li>
+  <li>Análise Exploratória de Dados – Análise dos Percentis</li>
+  <li>Por Que Precisamos Criar uma Matriz Esparsa?</li>
+  <li>Construindo a Matriz Esparsa para o Cálculo de Similaridade</li>
+  <li>Calculando as Médias de Avaliações</li>
+  <li>O Problema do Cold Start</li>
+  <li>Calculando a Matriz de Similaridade de Usuários</li>
+  <li>Usando SVD para Redução de Dimensionalidade</li>
   <li></li>
   <li></li>
   <li></li>
