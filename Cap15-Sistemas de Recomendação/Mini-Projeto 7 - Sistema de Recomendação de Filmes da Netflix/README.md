@@ -27,8 +27,8 @@ Trabalhar com dados reais fornecidos pela própria Netflix.
   <li>O Problema do Cold Start</li>
   <li>Calculando a Matriz de Similaridade de Usuários</li>
   <li>Usando SVD para Redução de Dimensionalidade</li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Calculando a Variância Explicada Após Redução de Dimensionalidade</li>
+  <li>Calculando a Matriz de Similaridade de Filmes</li>
+  <li>Usando o Sistema de Recomendação para Encontrar Filmes Similares</li>
+  <li>Construindo o Modelo de Machine Learning para as Previsões</li>
 </ul>

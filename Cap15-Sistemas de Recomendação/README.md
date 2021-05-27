@@ -17,14 +17,4 @@ Sistemas de Recomendação costumam ser bem menos complexos em comparação com 
   <li>Modelos Híbridos</li>
   <li>Evolução dos Sistemas de Recomendação</li>
   <li>Mini-Projeto 7 – Sistema de Recomendação de Filmes da Netflix</li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
 </ul>
