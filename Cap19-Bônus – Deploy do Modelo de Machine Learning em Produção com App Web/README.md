@@ -7,8 +7,8 @@ Para este projeto iremos construir um modelo de Deep Learning para classificaç�
   <li>Introdução</li>
   <li>Definindo o Projeto</li>
   <li>Construindo e Treinando o Modelo de Deep Learning</li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Módulo para Carregar o Modelo em Formato JSON</li>
+  <li>Design da Interface WEB</li>
+  <li>Construindo a Aplicação WEB</li>
+  <li>Usando o Modelo de Deep Learning para Previsões em Tempo Real Via Aplicação Web</li>
 </ul>
