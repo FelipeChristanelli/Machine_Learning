@@ -11,4 +11,7 @@ Para este projeto iremos construir um modelo de Deep Learning para classificaç�
   <li>Design da Interface WEB</li>
   <li>Construindo a Aplicação WEB</li>
   <li>Usando o Modelo de Deep Learning para Previsões em Tempo Real Via Aplicação Web</li>
+  <li>Fazendo o Deploy em Produção em Nuvem na AWS</li>
+  <li>Publicando a Aplicação Web e Fazendo Previsões em Tempo Real</li>
+  <li>Configurando o DNS para a Aplicação Web</li>
 </ul>
